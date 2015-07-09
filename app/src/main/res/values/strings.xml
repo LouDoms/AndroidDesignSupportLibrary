@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main">Main</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="fab">Floating Action Button</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="collapse">CollapsingToolbarLayout</string>
+    <string name="nav">NavigationView</string>
+
+    <string name="header_title">Android Support Design Library</string>
+    <string name="app_name">AndroidDesignSupportLibrary</string>
+    <string name="floating_action_button_activity"></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
